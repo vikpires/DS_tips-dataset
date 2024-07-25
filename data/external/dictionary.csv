@@ -1,0 +1,8 @@
+variável,descrição,tipo,subtipo
+total_bill,Total da conta em dólares,quantitativa,contínua
+tip,Gorjeta recebida em dólares,quantitativa,contínua
+sex,Gênero dos clientes,qualitativa,nominal
+smoker,Presença de fumantes na mesa,qualitativa,nominal
+day,Dia da semana em que a gorjeta foi recebida,qualitativa,ordinal
+time,Período em que as refeições ocorreram,qualitativa,nominal
+size,Quantidade de pessoas na mesa,quantitativa,discreta
