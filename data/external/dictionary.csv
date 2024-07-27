@@ -1,4 +1,4 @@
-variável,descrição,tipo,subtipo
+variavel,descricao,tipo,subtipo
 total_bill,Total da conta em dólares,quantitativa,contínua
 tip,Gorjeta recebida em dólares,quantitativa,contínua
 sex,Gênero dos clientes,qualitativa,nominal
